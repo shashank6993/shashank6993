@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashank6993
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently  HTML, CSS , JavaScript
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently  KOtlin
 - 📫 How to reach me mail me at shashank272004@gmail.com
 
 <!---
