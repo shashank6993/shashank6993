@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shashank6993
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently  KOtlin
+- 🌱 I’m currently on KOtlin
 - 📫 How to reach me mail me at shashank272004@gmail.com
 
 <!---
